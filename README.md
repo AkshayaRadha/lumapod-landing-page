@@ -35,4 +35,7 @@ Project Highlights
 > Strengthened understanding of responsive layouts and animation logic
 > Designed as part of my personal front-end development portfolio
 
+Contact : 
+akshayaradhavelammal@gmail.com
+
 
